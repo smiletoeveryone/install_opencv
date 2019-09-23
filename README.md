@@ -1,4 +1,4 @@
-# install_opencv
+# install_opencv_for_your_raspberry
 
 ![](https://github.com/smiletoeveryone/install_opencv/blob/master/cv_version.jpg)
 
