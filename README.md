@@ -2,6 +2,7 @@
 
 ![](https://github.com/smiletoeveryone/install_opencv/blob/master/cv_version.jpg)
 
+
 ### 1st section
 
 $ sudo rpi-update
