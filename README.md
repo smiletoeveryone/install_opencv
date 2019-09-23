@@ -1,9 +1,6 @@
-
-![] (https://github.com/smiletoeveryone/install_opencv/blob/master/cv_version.jpg)
-
 # install_opencv
 
-![] (https://github.com/smiletoeveryone/install_opencv/blob/master/cv_version.jpg)
+![](https://github.com/smiletoeveryone/install_opencv/blob/master/cv_version.jpg)
 
 ### 1st section
 
